@@ -1,0 +1,10 @@
+d:\usuarios\documents\visual studio 2017\Projects\Estructuras_de_datos\Estructuras_de_datos\bin\Debug\Estructuras_de_datos.exe.config
+d:\usuarios\documents\visual studio 2017\Projects\Estructuras_de_datos\Estructuras_de_datos\bin\Debug\Estructuras_de_datos.exe
+d:\usuarios\documents\visual studio 2017\Projects\Estructuras_de_datos\Estructuras_de_datos\bin\Debug\Estructuras_de_datos.pdb
+d:\usuarios\documents\visual studio 2017\Projects\Estructuras_de_datos\Estructuras_de_datos\bin\Debug\Estructuras_de_datos.xml
+d:\usuarios\documents\visual studio 2017\Projects\Estructuras_de_datos\Estructuras_de_datos\obj\Debug\Estructuras_de_datos.vbprojResolveAssemblyReference.cache
+d:\usuarios\documents\visual studio 2017\Projects\Estructuras_de_datos\Estructuras_de_datos\obj\Debug\Estructuras_de_datos.Resources.resources
+d:\usuarios\documents\visual studio 2017\Projects\Estructuras_de_datos\Estructuras_de_datos\obj\Debug\Estructuras_de_datos.vbproj.GenerateResource.Cache
+d:\usuarios\documents\visual studio 2017\Projects\Estructuras_de_datos\Estructuras_de_datos\obj\Debug\Estructuras_de_datos.exe
+d:\usuarios\documents\visual studio 2017\Projects\Estructuras_de_datos\Estructuras_de_datos\obj\Debug\Estructuras_de_datos.xml
+d:\usuarios\documents\visual studio 2017\Projects\Estructuras_de_datos\Estructuras_de_datos\obj\Debug\Estructuras_de_datos.pdb
